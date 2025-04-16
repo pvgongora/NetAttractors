@@ -5,4 +5,4 @@ Here, we study the spectral embedding that reveals network patterns and links th
 - `Correlation-dimension`: Contains the Python code for generating the corresponding embedding and calculating the correlation dimension of the network. Please cite [1] if you use this code.
 
 ## References
-[1] Villegas, P. (2025). Strange Attractors in Complex Networks. Phys. Rev. E.
+[1] Villegas, P. (2025). Strange Attractors in Complex Networks. Phys. Rev. E. 111, L042301 (2025). 10.1103/PhysRevE.111.L042301
